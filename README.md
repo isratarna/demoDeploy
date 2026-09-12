@@ -16,7 +16,7 @@ A practice full-stack project for learning professional GitHub Actions CI/CD dep
 4. Start both apps: `npm run dev`
    - Backend: http://localhost:4056
    - Frontend: http://localhost:3056
-   - MySQL: localhost:3356
+   - MySQL: localhost:3306
 
 ## Project structure
 
