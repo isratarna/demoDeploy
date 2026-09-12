@@ -14,8 +14,9 @@ A practice full-stack project for learning professional GitHub Actions CI/CD dep
 2. Copy `.env.example` to `.env` (root), and set up `backend/.env` and `frontend/.env.local` with matching values.
 3. Install dependencies: `npm run install:all`
 4. Start both apps: `npm run dev`
-   - Backend: http://localhost:4000
-   - Frontend: http://localhost:3000
+   - Backend: http://localhost:4056
+   - Frontend: http://localhost:3056
+   - MySQL: localhost:3356
 
 ## Project structure
 
